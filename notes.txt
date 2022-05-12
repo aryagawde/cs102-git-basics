@@ -1,0 +1,2 @@
+Two files have been added along with this text file to this repository.
+This repository will be used to understand the basics of GitHub.
