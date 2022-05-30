@@ -1,0 +1,3 @@
+Revision of git commands.
+This is the other text file in this repository.
+
